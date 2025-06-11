@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Yendry Villalobos Oviedo
-#### Soy estudiante de Informática Empresarial en la Universidad de Costa Rica, Sede del Caribe, Recinto de Siquirres.
-Profesional responsable, honesta, seria, con compromiso en iniciativa, facilidad para trabajar en equipo, los retos los tomo con seriedad, adaptación al cambio y motivada a crecer profesionalmente.
+#### Soy desarrolladora de software en formación con experiencia en el desarrollo de aplicaciones web y móviles utilizando tecnologías como Angular, .NET, Laravel y PostgreSQL. Me destaco por mi ética profesional, liderazgo, adaptabilidad y compromiso con la mejora continua.
+
 
 Habilidades: Laravel / Bootstrap / JS / HTML / CSS 
 
